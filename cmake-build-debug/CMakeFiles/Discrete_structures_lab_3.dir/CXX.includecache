@@ -13,6 +13,8 @@ vector
 -
 queue
 -
+stack
+-
 string
 -
 fstream
